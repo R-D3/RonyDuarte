@@ -1,2 +1,0 @@
-# RonyDuarte
-Pagina Web
